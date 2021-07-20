@@ -1,2 +1,0 @@
-# Lalaskom
-Uconn Coding Bootcamp
